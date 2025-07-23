@@ -6,7 +6,7 @@ const Nav = () => {
     <nav>
         <img src="" alt="logo" />
 
-        <ul>
+        <ul className='text-center bg-blue'>
             <li><a href="">The_Neutralcode_Experience</a></li>
             <li><a href="">Stacks</a></li>
             <li><a href="">The_Team</a></li>
